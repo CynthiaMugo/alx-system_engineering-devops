@@ -1,1 +1,1 @@
-Task 0. Where am i?
+Script for shell, init files, variables and expansions.
